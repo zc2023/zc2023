@@ -2,11 +2,11 @@
 
 
 
-- 👋 Hi, I’m Cheng Zhang (张诚), an undergraduated student in Central China Normal University (CCNU).  
-- 👋 My major is artificial intelligence.  
-- 👀 I’m interested in deep learning, computer vision, etc.  
-- 🌱 I’m currently learning CNN, Transformer, computer vision, object detection...  
-- 📫 Emails: younai2021@gmail.com, zc2021@mails.ccnu.edu.cn
+- 👋 Hi, I’m Cheng Zhang (张诚).
+- 👋 I'm studying in  Central China Normal University (CCNU) and major in artificial intelligence.  
+- 👀 I’m interested in deep learning, computer vision, 3D vision, etc.  
+- 🌱 I’m currently learning, Transformer, computer vision, object detection...  
+- 📫 Email: zc2021@mails.ccnu.edu.cn
 
 
 <a href="https://github.com/zc2023">
