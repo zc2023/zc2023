@@ -3,10 +3,10 @@
 
 
 - 👋 Hi, I’m Cheng Zhang (张诚).
-- 👋 I'm studying in  Central China Normal University (CCNU) and major in artificial intelligence.  
-- 👀 I’m interested in deep learning, computer vision, 3D vision, etc.  
-- 🌱 I’m currently learning, Transformer, computer vision, object detection...  
-- 📫 Email: zc2021@mails.ccnu.edu.cn
+- 👋 I'm going to graudate from Central China Normal University (CCNU) and persue my Master degree in Huazhong University of Sciences and Technology (HUST).  
+- 👀 My interest includes computer vision, 3D vision, etc.  
+- 🌱 I’m currently learning mamba.  
+- 📫 Email: zc2021@mails.ccnu.edu.cn  
 
 
 <a href="https://github.com/zc2023">
