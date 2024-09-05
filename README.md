@@ -3,10 +3,9 @@
 
 
 - 👋 Hi, I’m Cheng Zhang (张诚).
-- 👋 I'm going to graudate from Central China Normal University (CCNU) and pursue my Master degree in Huazhong University of Science and Technology (HUST).  
-- 👀 My interest includes computer vision, 3D vision, etc.  
-- 🌱 I’m currently learning mamba.  
-- 📫 Email: zc2021@mails.ccnu.edu.cn  
+- 👋 I'm a Master student at Huazhong University of Science and Technology (HUST). I got my Bachelor's degree at Central China Normal University.
+- 👀 My interest includes computer vision, 3D vision, embodied AI etc.  
+- 📫 Email: m202476950@hust.edu.cn 
 
 
 <a href="https://github.com/zc2023">
