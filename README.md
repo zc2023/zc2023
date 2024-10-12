@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Cheng Zhang (张诚).
 - 👋 I'm a Master student at Huazhong University of Science and Technology (HUST). I got my Bachelor's degree at Central China Normal University.
 - 👀 My interest includes computer vision, 3D vision, embodied AI etc.  
-- 📫 Email: m202476950@hust.edu.cn 
+- 📫 Email: czhang2024@hust.edu.cn 
 
 
 <a href="https://github.com/zc2023">
