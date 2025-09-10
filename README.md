@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Cheng Zhang (张诚).
 - 👋 I'm a Master student at Huazhong University of Science and Technology (HUST). I got my Bachelor's degree at Central China Normal University.
-- 👀 My interest includes 3D multi-modal large models (3D MLLMs), Vision Language Action Model (VLA), 3D vision etc.  
+- 👀 My current research focuses on 3D vision and embodied AI, including 3D Multi-modal Large Language Models (3D MLLMs) and Vision-Language-Action Models (VLAs). 
 - 📫 Email: czhang2024@hust.edu.cn 
 
 
